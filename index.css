@@ -1,6 +1,6 @@
-/* ===============================
-   GLOBAL RESET & SAFETY
-================================ */
+
+   /*GLOBAL RESET & SAFETY*/
+
 
 *,
 *::before,
@@ -15,9 +15,9 @@ body {
   font-family: "Nunito Sans", sans-serif;
 }
 
-/* ===============================
-   BODY BACKGROUND
-================================ */
+
+   /*BODY BACKGROUND*/
+
 
 body {
   background: linear-gradient(
@@ -30,9 +30,9 @@ body {
   );
 }
 
-/* ===============================
-   NAVBAR
-================================ */
+
+   /*NAVBAR*/
+
 
 .appNavbar {
   background: linear-gradient(
@@ -66,9 +66,9 @@ body {
   color: #0d6efd;
 }
 
-/* ===============================
-   LANDING SECTION
-================================ */
+
+   /*LANDING SECTION*/
+
 
 .landingSection {
   padding-top: 120px;
@@ -115,9 +115,9 @@ body {
   margin: 0 auto;
 }
 
-/* ===============================
-   SECTIONS
-================================ */
+
+   /*SECTIONS*/
+
 
 .sectionPad {
   padding: 72px 0;
@@ -129,9 +129,9 @@ body {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-/* ===============================
-   PROJECT CARDS
-================================ */
+
+   /*PROJECT CARDS*/
+
 
 .appCard {
   border-radius: 16px;
@@ -160,10 +160,6 @@ body {
   color: #333;
 }
 
-/* ===============================
-   TRANSPARENT CARD BACKGROUND
-================================ */
-
 .card,
 .appCard {
   background-color: rgba(255, 255, 255, 0.15);
@@ -171,9 +167,9 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.25);
 }
 
-/* ===============================
-   TOOLS SECTION
-================================ */
+
+   /*TOOLS SECTION*/
+
 
 .toolsGroup {
   background: rgba(255, 255, 255, 0.14);
@@ -202,9 +198,8 @@ body {
   border: 2px solid rgba(0, 0, 0, 0.2);
 }
 
-/* ===============================
-   CONTACT SECTION
-================================ */
+   /*CONTACT SECTION*/
+
 
 .contact-section {
   padding: 60px 0;
@@ -254,9 +249,9 @@ body {
   background-color: #0d47a1;
 }
 
-/* ===============================
-   FOOTER
-================================ */
+
+   /*FOOTER*/
+
 
 #footer {
   background: linear-gradient(
@@ -281,9 +276,9 @@ body {
   color: #111;
 }
 
-/* ===============================
-   FIXED SIDE NAV BUTTON
-================================ */
+ 
+ /*FIXED SIDE NAV BUTTON*/
+
 
 .side-nav {
   position: fixed;
